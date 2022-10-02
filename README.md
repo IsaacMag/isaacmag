@@ -28,5 +28,7 @@
  <img align = "center" alt = "Isaac-bootstrap" height = "30" widh = "40" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img align = "center" alt = "Isaac-java" height = "30" widh = "40" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  <img align = "center" alt = "Isaac-php" height = "30" widh = "40" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+ <img align = "center" alt = "Isaac-django" height = "30" widh = "40" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
  
+
    </div> 
